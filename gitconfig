@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = draheim.eric@gmail.com
+	name = eric
